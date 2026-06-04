@@ -1,3 +1,11 @@
 fastapi
 uvicorn
 pydantic
+ultralytics
+opencv-python
+numpy
+torch
+torchvision
+supervision
+pytest
+requests
