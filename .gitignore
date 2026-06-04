@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+# Videos
+*.mp4
+
+runs/
+
+.venv/
+venv/
+
+.vscode/
+
+*.log
